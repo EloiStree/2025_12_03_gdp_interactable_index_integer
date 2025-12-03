@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="IIDInOutGroupRange" load_steps=3 format=3 uid="uid://cr2ciu6xdmnst"]
+
+[ext_resource type="Script" uid="uid://cigjimhg30t1d" path="res://addons/2025_12_03_gdp_interactable_index_integer/script/beans/iid_data_in_out_range.gd" id="1_otsts"]
+[ext_resource type="Script" uid="uid://cdxcauos3vijf" path="res://addons/2025_12_03_gdp_interactable_index_integer/script/beans/iid_data_in_out_group_range.gd" id="2_0f5wn"]
+
+[resource]
+script = ExtResource("2_0f5wn")
+group = Array[ExtResource("1_otsts")]([null, null, null])
+metadata/_custom_type_script = "uid://cdxcauos3vijf"

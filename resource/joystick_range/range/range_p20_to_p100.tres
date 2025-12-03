@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="IIDInOutRange" load_steps=3 format=3 uid="uid://bpt0tjmikpp3r"]
+
+[ext_resource type="Script" uid="uid://cigjimhg30t1d" path="res://addons/2025_12_03_gdp_interactable_index_integer/script/beans/iid_data_in_out_range.gd" id="1_83sc6"]
+[ext_resource type="Resource" uid="uid://q34q5eqvp3v3" path="res://addons/2025_12_03_gdp_interactable_index_integer/resource/joystick_range/gamepad/xbox_joystick_left_right.tres" id="1_kj5vk"]
+
+[resource]
+script = ExtResource("1_83sc6")
+integer_in_out = ExtResource("1_kj5vk")
+metadata/_custom_type_script = "uid://cigjimhg30t1d"

@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="IIDInOutRange" load_steps=2 format=3 uid="uid://drdrs8iexxhv6"]
+
+[ext_resource type="Script" uid="uid://cigjimhg30t1d" path="res://addons/2025_12_03_gdp_interactable_index_integer/script/beans/iid_data_in_out_range.gd" id="1_q5upc"]
+
+[resource]
+script = ExtResource("1_q5upc")
+min_value = -0.2
+max_value = 0.2
+metadata/_custom_type_script = "uid://cigjimhg30t1d"
