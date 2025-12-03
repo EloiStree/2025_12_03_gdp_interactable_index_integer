@@ -4,6 +4,6 @@
 
 [resource]
 script = ExtResource("1_fbelu")
-integer_value_on = 1335
-integer_value_off = 2335
+integer_value_on = 1321
+integer_value_off = 2321
 metadata/_custom_type_script = "uid://dcnouyntdr3pa"
