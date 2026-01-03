@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="IIDDataIntegerValueOnOff" load_steps=2 format=3 uid="uid://ddy1qqeu1adj2"]
+
+[ext_resource type="Script" uid="uid://dcnouyntdr3pa" path="res://addons/2025_12_03_gdp_interactable_index_integer/script/beans/iid_data_integer_value_on_off.gd" id="1_6h6xk"]
+
+[resource]
+script = ExtResource("1_6h6xk")
+integer_value_on = 1008
+integer_value_off = 1008
+metadata/_custom_type_script = "uid://dcnouyntdr3pa"
